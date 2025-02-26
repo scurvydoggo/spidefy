@@ -1,7 +1,7 @@
-# Tauri + Solid + Typescript
+# spidefy
 
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
+Explore music with a non-linear flow. A navigation tool for discovering tunes in Spotify. 
 
-## Recommended IDE Setup
+Jump into an artist's radio if you're liking a song; pop back to the previous playlist if it was a dud.
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Minimal UI to visualise your journey.
